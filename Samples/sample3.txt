@@ -1,0 +1,36 @@
+# camera position (x = 100, y = 100, z = 0)
+100 100 0
+
+# screen position
+# top left corner
+110 110 30
+
+# top right corner
+90 110 30
+
+# bottom left corner
+110 90 30
+
+# screen horizontal resolution
+400
+
+# background color
+50 50 50
+# light source position
+100 120 0 255 255 255
+
+# three spheres
+sphere: 80 100 90 8 250 0 0 0.6
+sphere: 90 80 90 8 0 250 0 0.6
+sphere: 100 120 90 8 0 0 250 0.6
+sphere: 110 80 90 8 250 0 0 0.6
+sphere: 120 100 90 8 0 250 0 0.6
+
+# sphere: 80 100 110 8 250 0 0 0.6
+sphere: 80 120 110 8 0 250 0 0.6
+sphere: 100 80 110 8 0 0 250 0.6
+sphere: 120 120 110 8 250 0 0 0.6
+# sphere: 120 100 110 8 0 250 0 0.6
+
+
+ambient: 0 0 0
